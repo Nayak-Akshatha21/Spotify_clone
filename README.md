@@ -1,1 +1,1 @@
-# Spotify_clone
+# Spotify-Clone-Django
